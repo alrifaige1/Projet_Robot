@@ -45,8 +45,9 @@ Vous pouvez vous en inspirer pour vos propres réalisations ! 🚀
 
 
 <div style="display: flex; justify-content: space-between;">
-  ![image](https://github.com/user-attachments/assets/f72280cd-9c1d-446c-b75d-1316a424bdfe)   
-  ![image](https://github.com/user-attachments/assets/166487fa-7170-4a7f-8ea1-67e2e42c4263)
+  <img src="![image](https://github.com/user-attachments/assets/0bc56442-6bf9-47a8-b832-9da17b7552a7)
+" alt="Image 1" style="width: 45%;"/>
+  <img src="![image](https://github.com/user-attachments/assets/21bf5d42-e26f-44b3-b3c9-87fad6065d90)" alt="Image 2" style="width: 45%;"/>
 </div>
 
 
