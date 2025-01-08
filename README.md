@@ -45,7 +45,7 @@ Vous pouvez vous en inspirer pour vos propres réalisations ! 🚀
 
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/0bc56442-6bf9-47a8-b832-9da17b7552a7" alt="Image 1" style="width: 45%;"/>
+  <img src="https://github.com/user-attachments/assets/76c02234-ad83-4afd-b8d5-6f5fef5db0a3" alt="Image 1" style="width: 45%;"/>
   <img src="https://github.com/user-attachments/assets/21bf5d42-e26f-44b3-b3c9-87fad6065d90" alt="Image 2" style="width: 45%;"/>
 </div>
 
