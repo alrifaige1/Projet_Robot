@@ -42,7 +42,12 @@ Vous pouvez vous en inspirer pour vos propres réalisations ! 🚀
 ### 3. **Réalisation**
 - Assemblage du robot avec soin et ajout d'une décoration unique pour lui donner une personnalité.
 
-![image](https://github.com/user-attachments/assets/f72280cd-9c1d-446c-b75d-1316a424bdfe)              ![image](https://github.com/user-attachments/assets/166487fa-7170-4a7f-8ea1-67e2e42c4263)
+
+
+<div style="display: flex; justify-content: space-between;">
+  ![image](https://github.com/user-attachments/assets/f72280cd-9c1d-446c-b75d-1316a424bdfe)   
+  ![image](https://github.com/user-attachments/assets/166487fa-7170-4a7f-8ea1-67e2e42c4263)
+</div>
 
 
 ---
